@@ -1,6 +1,0 @@
-The first observation is by looking at the 'Scores by Spending' summary which indicate students attending to schools having lower budget allocation scored higher average math and reading scores than those in higher budget allocated school. The overall percentage passing score for both math and reading (whose scores were above 70% in both subjects) was worst for schools having the highest individual student budget allocation that falls under the $645 and $675 category. 
- 
-The second observation is by looking at the 'Scores by School Size' summary which indicate students attending to schools having fewer number of students scored higher average math and reading scores than those in schools having greater population. And the overall percentage passing scores for both math and reading (whose scores were above 70% in both subjects) was worst for the largest schools population that falls under the 2000 and 5000 student category.
-
-
-The third observation is by looking at the 'Scores by School Type' summary which indicates students attending to 'charter' school have obtained a higher average scores in both math (almost 3% higher) and reading (around 17% higher) in comparison with those attending to 'district' school.   
